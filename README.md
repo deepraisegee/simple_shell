@@ -76,5 +76,5 @@ exit | Exits the shell
 ![Image of Flowchart](https://i.imgur.com/WcN0ccr.jpg)
 
 ### Contributors
-- [Diana Carolina Quintero Caro](https://github.com/KaroDev3)
-- [Daniela Lopera Hernández](https://github.com/danielaloperahernandez)
+- [Adesanmi Dayo PraiseGod](https://github.com/deepraisegee)
+
